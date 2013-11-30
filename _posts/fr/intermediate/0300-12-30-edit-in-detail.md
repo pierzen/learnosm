@@ -40,7 +40,7 @@ Afin d'appliquer les outils de ce menu, vous devez d'abord sélectionner un
 point, une ligne ou un polygon dans la ***Fenêtre Carte***. Quelques-uns des outils les plus utiles sont décrits ci-dessous :
 
 1. `Couper un chemin` (P) : Cela vous permet de diviser une ligne en deux lignes distinctes.
-     Ceci est utile si vous souhaitez ajouter des attributs différents pour différentes sections d'une route, comme un pont. Pour utiliser cet outil, sélectionnez un
+     Ceci est utile par exemple si vous souhaitez ajouter des attributs distincts pour différentes sections d'une route, comme un pont. Pour utiliser cet outil, sélectionnez un
      point au milieu de la ligne que vous voulez partager, Sélectionnez  `Couper le chemin` dans le menu `Outils`, et votre ligne sera scindée en deux.
 
     ![]({{site.baseurl}}/images/intermediate/en_edit_in_detail_image38.png)
